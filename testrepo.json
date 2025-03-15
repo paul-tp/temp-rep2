@@ -1,0 +1,21 @@
+[
+    
+    {
+         "package": "pillow",
+         "type": "binary",
+         "url": "https://files.pythonhosted.org/packages/e4/c2/e25199e7e4e71d64eeb869f5b72c7ddec70e0a87926398785ab944d92375/pillow-11.1.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl",
+         "version": "v11.1.0"
+    },
+    {
+        "package": "jupyterhub_helm_chart",
+        "type": "binary",
+        "url": "https://jupyterhub.github.io/helm-chart/jupyterhub-3.2.0.tgz",
+        "version": "v3.2.0"
+    },
+  {
+        "package": "istio",
+        "type": "binary",
+        "url": "https://github.com/istio/istio/releases/download/1.20.4/istio-1.20.4-linux-amd64.tar.gz",
+        "version": "v1.20.4"
+    }
+]
